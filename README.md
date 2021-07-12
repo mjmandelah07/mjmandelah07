@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjmandelah07
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking for mentor or sponsor
 - 📫 How to reach me, text me on whatsapp{08167065474}
 
 <!---
