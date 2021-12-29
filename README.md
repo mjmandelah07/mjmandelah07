@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mjmandelah07
+- 👋 Hi, I’m aramide mojisola oluwadamilola
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking for mentor or sponsor
