@@ -1,6 +1,6 @@
-- 👋 Hi, I’m aramide mojisola oluwadamilola
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m aramide mojisola oluwadamilola.
+- 👀 I’m interested in data science and back end development.
+- 🌱 I’m currently learning python and php.
 - 💞️ I’m looking for mentor or sponsor
 - 📫 How to reach me, text me on whatsapp{08167065474}
 
