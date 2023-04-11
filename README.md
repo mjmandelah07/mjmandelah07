@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aramide mojisola oluwadamilola.
-- 👀 I’m interested in software developmen.
-- 🌱 I’m currently learning python and javascript.
+- 👀 software developer.
+- 🌱HTML,CSS,JAVASCRIPT,PYTHON.
 - 📫 How to reach me, text me on whatsapp{08167065474}
 
 <!---
