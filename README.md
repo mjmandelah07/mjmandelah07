@@ -1,7 +1,7 @@
-- 👋 Hi, I’m aramide mojisola oluwadamilola.
+- 👋 Hi, I’m mojisola oluwadamilola aramide.
 - 👀 software developer.
-- 🌱HTML,CSS,JAVASCRIPT,PYTHON.
-- 📫 How to reach me, text me on whatsapp{08167065474}
+- 🌱HTML,CSS,JAVASCRIPT,REACT, BOOTSTRAP.
+- 📫 How to reach me, aramidemojisola7@gmail.com
 
 <!---
 mjmandelah07/mjmandelah07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
