@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mojisola oluwadamilola aramide.
 - 👀 software developer.
-- 🌱HTML,CSS,JAVASCRIPT,REACT, BOOTSTRAP.
+- 🌱HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP, TAILWIND, NODE, EXPRESS, POSTGRES, MongoDB
 - 📫 How to reach me, aramidemojisola7@gmail.com
 
 <!---
